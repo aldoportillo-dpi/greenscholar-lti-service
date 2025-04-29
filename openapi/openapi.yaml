@@ -1,0 +1,8 @@
+openapi: 3.0.0
+info:
+  description: API for Go Template Service.
+  title: Go Template Service API
+  version: 1.0.0
+servers:
+  - url: https://dpi.com/api
+paths:
